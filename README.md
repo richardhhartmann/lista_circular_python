@@ -148,3 +148,15 @@ while True:
 ```
 
 ## Execução do exercício - Resolução
+Figura 1: tela da solução do exercício – adicionando vagões (15, 20 e 30).
+<img src="/src/img1.png"><br/><br/>
+Figura 2: tela da solução do exercício – removendo vagões (20).
+<img src="/src/img2.png"><br/><br/>
+Figura 3: tela da solução do exercício – buscando vagões (30 e 15).
+<img src="/src/img3.png"><br/><br/>
+Figura 4: tela da solução do exercício – contando vagões (2).
+<img src="/src/img4.png"><br/><br/>
+Figura 5: tela da solução do exercício – acoplando máquinas/vagões à composição (0).
+<img src="/src/img5.png"><br/><br/>
+Figura 6: tela da solução do exercício – exibindo a composição (15, 30 e 0).
+<img src="/src/img7.png"><br/><br/>
