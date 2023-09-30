@@ -1,17 +1,17 @@
 ## Lista Circular em Python (Trens e Vagões)
 
-**Abstract.** The objective of this project is to provide a solution for a particular investigation into circular lists in Data Structures 2, using the knowledge acquired in classes and innovative problem-solving techniques. Using the complementary materials offered by professor Juliano Ratusznei, it is possible to understand the essential components of the task, divide it into manageable parts and, finally, reach a coherent resolution that satisfies the problem at hand.
+##### **Abstract.** The objective of this project is to provide a solution for a particular investigation into circular lists in Data Structures 2, using the knowledge acquired in classes and innovative problem-solving techniques. Using the complementary materials offered by professor Juliano Ratusznei, it is possible to understand the essential components of the task, divide it into manageable parts and, finally, reach a coherent resolution that satisfies the problem at hand.
 
-**Resumo.** O objetivo deste projeto é fornecer uma solução para uma investigação particular sobre listas circulares em Estruturas de Dados 2, utilizando os conhecimentos adquiridos nas aulas e técnicas inovadoras de resolução de problemas. Utilizando os materiais complementares oferecidos pelo professor Juliano Ratusznei, é possível compreender os componentes essenciais da tarefa, dividi-la em partes gerenciáveis e, por fim, chegar a uma resolução coerente que satisfaça o problema em questão.
+##### **Resumo.** O objetivo deste projeto é fornecer uma solução para uma investigação particular sobre listas circulares em Estruturas de Dados 2, utilizando os conhecimentos adquiridos nas aulas e técnicas inovadoras de resolução de problemas. Utilizando os materiais complementares oferecidos pelo professor Juliano Ratusznei, é possível compreender os componentes essenciais da tarefa, dividi-la em partes gerenciáveis e, por fim, chegar a uma resolução coerente que satisfaça o problema em questão.
 
 ## Descrição do exercício a ser solucionado:
 ### Implemente uma lista circular com identificador da composição de trens do metrô a qual tenha as seguintes características:
-Alocação de memória dinâmica para os vagões inseridos.<br/>
-Uma função de busca de vagões por trem.<br/>
-Contagem da quantidade de vagões presentes na composição.<br/>
-Remoção de vagões.<br/>
-Adição de vagões.<br/>
-O último vagão deve permitir a acoplagem de máquinas ou vagões.
+##### Alocação de memória dinâmica para os vagões inseridos.
+##### Uma função de busca de vagões por trem.
+##### Contagem da quantidade de vagões presentes na composição.
+##### Remoção de vagões.
+##### Adição de vagões.
+##### O último vagão deve permitir a acoplagem de máquinas ou vagões.
 
 ## Resolução do exercício - Codificação:
 
@@ -148,15 +148,15 @@ while True:
 ```
 
 ## Execução do exercício - Resolução
-Figura 1: tela da solução do exercício – adicionando vagões (15, 20 e 30).
+##### Figura 1: tela da solução do exercício – adicionando vagões (15, 20 e 30).
 <img src="/src/img1.png"><br/><br/>
-Figura 2: tela da solução do exercício – removendo vagões (20).
+##### Figura 2: tela da solução do exercício – removendo vagões (20).
 <img src="/src/img2.png"><br/><br/>
-Figura 3: tela da solução do exercício – buscando vagões (30 e 15).
+##### Figura 3: tela da solução do exercício – buscando vagões (30 e 15).
 <img src="/src/img3.png"><br/><br/>
-Figura 4: tela da solução do exercício – contando vagões (2).
+##### Figura 4: tela da solução do exercício – contando vagões (2).
 <img src="/src/img4.png"><br/><br/>
-Figura 5: tela da solução do exercício – acoplando máquinas/vagões à composição (0).
+##### Figura 5: tela da solução do exercício – acoplando máquinas/vagões à composição (0).
 <img src="/src/img5.png"><br/><br/>
-Figura 6: tela da solução do exercício – exibindo a composição (15, 30 e 0).
+##### Figura 6: tela da solução do exercício – exibindo a composição (15, 30 e 0).
 <img src="/src/img7.png"><br/><br/>
